@@ -63,7 +63,6 @@ html, body {
   border-radius: 50%;
   top: -13vmin;
 }
-
 .hair-top::after {
   width: 13vmin;
   height: 14vmin;
